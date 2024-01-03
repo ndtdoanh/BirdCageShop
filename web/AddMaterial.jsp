@@ -19,6 +19,8 @@
     </head>
     <body class="fade-in">
         <header>
+            
+            
             <div class="logo">
                 <img src="static/img/logoheadb.png">
             </div>
