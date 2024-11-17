@@ -9,7 +9,7 @@ This project were made by 5 members of team as part of SWP391 subject (Applicati
 - Le Quang Huy
 - Tran Van Minh Manh
 - Nguyen Doan Trong Doanh
-- Pham Hong Quan
+- Pham Hong Quan AP
   
 ## Description
 There are 5 actors participated in our system:
